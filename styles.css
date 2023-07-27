@@ -509,6 +509,10 @@ PROJECTS
 
 */
 
+.project {
+    margin-top: 16px;
+}
+
 .section__title {
     text-align: center;
     font-size: 48px;
